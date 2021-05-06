@@ -39,7 +39,7 @@ cromshell -t100 metadata <workflow_id> > metadata.json
 
 ### Install dependencies
 ```
-pip install --upgrade streamlit pandas
+pip install --upgrade streamlit pandas plotly-express
 ```
 
 ### Launch the dashboard
