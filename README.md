@@ -2,11 +2,11 @@
 
 This project aims to provide a simple and lightweight dashboard to analyze the metadata of Cromwell workflows' metadata.
 
-![Cromwell Profiler](https://github.com/henriqueribeiro/cromwell_profiler/blob/main/img/profiler.gif)
+<p align="center">
+  <img src="https://github.com/henriqueribeiro/cromwell_profiler/blob/main/img/profiler.gif" alt="animated" />
+</p>
 
 This project is based on Broad Institute gatk-sv [script](https://github.com/broadinstitute/gatk-sv/blob/master/scripts/cromwell/analyze_resource_acquisition.py)
-
----
 
 ## Features
 - High-level statistics (task counts, duration, CPU hours)
