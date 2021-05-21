@@ -1,6 +1,7 @@
 # Cromwell Metadata Profiler
 
-This project aims to provide a simple and lightweight dashboard to analyze the metadata of Cromwell workflows' metadata.
+This project aims to provide a simple and lightweight dashboard to analyze the metadata of Cromwell workflows' metadata. 
+It was only tested with GCP and AWS backends.
 
 <p align="center">
   <img src="https://github.com/henriqueribeiro/cromwell_profiler/blob/main/img/profiler.gif" alt="animated" />
